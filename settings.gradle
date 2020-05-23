@@ -1,0 +1,2 @@
+rootProject.name='LiftOff'
+include ':app'
